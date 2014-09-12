@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-3\Chapter3\LootTotal\bin\Debug\LootTotal.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-3\Chapter3\LootTotal\bin\Debug\LootTotal.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-3\Chapter3\LootTotal\obj\x86\Debug\LootTotal.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-3\Chapter3\LootTotal\obj\x86\Debug\LootTotal.pdb

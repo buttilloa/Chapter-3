@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-3\Chapter3\Check ye rates\bin\Debug\Check ye rates.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-3\Chapter3\Check ye rates\bin\Debug\Check ye rates.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-3\Chapter3\Check ye rates\obj\x86\Debug\Check ye rates.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-3\Chapter3\Check ye rates\obj\x86\Debug\Check ye rates.pdb

@@ -10,23 +10,23 @@ namespace Vessel_Dressing
         static void Main(string[] args)
         {
             String WoodType;
-            Console.Write("Enter P for Pine, O for Oak, and M for mahogany");
+            Console.Write("Enter P for Pine, O for Oak, and M for mahog-arggg-any");
             WoodType = Console.ReadLine();
             if (WoodType == "P")
             {
-                Console.WriteLine("Ye Table Cost 100 Doubloons");
+                Console.WriteLine("Ye Table Cost 100 doubloons");
             }
             else if (WoodType == "O")
             {
-                Console.WriteLine("Ye Table Cost 225 Doubloons");
+                Console.WriteLine("Ye nice wooden table will make a good peg leg one day, it will cost ye 225 doubloons");
             }
             else if (WoodType == "M")
             {
-                Console.WriteLine("Ye Table Cost 310 Doubloons");
+                Console.WriteLine("Ye stand where ye rest your mug Cost 310 doubloons");
             }
             else 
             {
-                Console.WriteLine("Ye Table Cost 0 Doubloons");
+                Console.WriteLine("Ye wooden resting stand cost 0 doubloons");
             }
         }
     }
